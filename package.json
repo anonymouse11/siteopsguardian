@@ -1,0 +1,22 @@
+{
+  "name": "siteopsguardian",
+  "version": "0.1.2",
+  "description": "A DevOps tool for site monitoring and system information retrieval.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymouse11/siteopsguardian.git"
+  },
+  "keywords": ["site", "monitoring", "devops", "status", "ping", "system", "info"],
+  "author": "b1tl1n",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "siteopsguardian": "^0.1.0",
+    "siteopssysinfo": "^0.1.0",
+    "siteopswebstatus": "^0.1.0"
+  }
+}
